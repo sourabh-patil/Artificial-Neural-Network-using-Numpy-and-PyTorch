@@ -1,4 +1,4 @@
-# Artificial-Neural-Network-using-Numpy-and-PyTorch
+# Artificial-Neural-Network-implemented-from-scratch-using-Numpy-as-well-as-PyTorch-implementation
 The aim of this task was to create an Artificial Neural Network using Numpy only.
 The activation functions that I have used are ReLU and Softmax.
 We should be able to design a flexible ANN i.e. number of neurons at each layer and number of layers in our network should be varible.
